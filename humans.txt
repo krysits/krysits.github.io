@@ -1,0 +1,18 @@
+http://blog.krysits.com/ - @krysits Blog
+
+/* TEAM */
+Kristaps Ledins
+Site: http://krysits.com
+Contact: krysits@gmail.com
+Twitter: @krysits
+GitHub: https://github.com/krysits
+Location: Riga, Latvia.
+
+/* THANKS */
+Name: Github Pages
+
+/* SITE */
+Last update: 2016.07.15.
+Standards: HTML5, CSS3, Javascript.
+Components: Github Pages, PureCSS.
+Software: Atom Code Editor, Ubuntu Desktop, Git.
