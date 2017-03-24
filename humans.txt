@@ -1,4 +1,4 @@
-http://blog.krysits.com/ - @krysits Blog
+http://krysits.github.io/ - @krysits Dev Docs
 
 /* TEAM */
 Kristaps Ledins
