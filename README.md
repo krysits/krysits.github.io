@@ -1,4 +1,4 @@
 # krysits.github.io
-Some Docs will come here soon..
+Some Docs will be hosted here soon..
 
-@krysits
+@krysits.COM
